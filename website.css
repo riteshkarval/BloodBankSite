@@ -1,0 +1,15 @@
+ * {padding:0; margin:0;}
+ a {text-decoration:none;}
+ p {padding-left:10px;}
+ .container {width:auto;height:auto; margin-left:auto; margin-right:auto;}
+ .header {background-image:url(left.jpg);}
+ .header1{background-color:black;width:auto;height:50;}
+ .button{background-color:grey;height:40px;width:120px;float:left;margin-right:5px;margin-left:5px;margin-top=5px;hover:#F30E1D;border:2 solid blue;}
+ .button:hover{backgound-color:#F30E1D;}
+ .header h1 {color:red; line-height:80px;font-weight:bold;font-size:50;}
+ .header img {float:left; height:70px; width:100px; padding:5px; margin-right:20px}
+ .nav {background-image:url(left.jpg);width:150px;height:650px;float:left;}
+ .nav ul {margin:15px; list-style-type:none;}
+ .content {float:left; height:650px;width:1000px;}
+ .right {background-image:url(left.jpg); float:right; width:150px;height:650px;}
+ .footer {clear:left; background-color:#F30E1D;}
